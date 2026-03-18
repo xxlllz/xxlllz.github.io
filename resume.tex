@@ -1,0 +1,136 @@
+\documentclass{resume}
+\usepackage{fontawesome}
+\usepackage{zh_CN-Adobefonts_external} 
+\usepackage{linespacing_fix}
+\usepackage{cite}
+\usepackage{marvosym}
+\usepackage{hyperref}
+\newcommand{\conf}[1]{\textit{(\textcolor{Navy}{\textbf{#1}})}}
+\begin{document}
+\pagenumbering{gobble}
+\definecolor{darkred}{rgb}{0.55, 0.0, 0.0}
+\definecolor{burgundy}{rgb}{0.5, 0.0, 0.13}
+\definecolor{HyperlinkBlue}{RGB}{0, 0, 238}
+\definecolor{DeepTealBlue}{RGB}{0, 64, 128}
+\definecolor{Navy}{RGB}{0, 0, 128}
+
+%***"%"后面的所有内容是注释而非代码，不会输出到最后的PDF中
+%***使用本模板，只需要参照输出的PDF，在本文档的相应位置做简单替换即可
+%***修改之后，输出更新后的PDF，只需要点击Overleaf中的“Recompile”按钮即可
+%**********************************姓名********************************************
+\name{赵烜乐 Zhao Xuanle}
+%**********************************联系信息****************************************
+%第一个括号里写手机号，第二个写邮箱
+\otherInfo{\faPhone\ 15639055053}{\Letter\ \href{zhaoxuanle2022@ia.ac.cn}{zhaoxuanle2022@ia.ac.cn}}{}{}
+\centerline{求职意向：多模态智能体后训练方向}
+
+%**********************************其他信息****************************************
+%在大括号内填写其他信息，最多填写4个，但是如果选择不填信息，
+%那么大括号必须空着不写，而不能删除大括号。
+%\otherInfo后面的四个大括号里的所有信息都会在一行输出
+%如果想要写两行，那就用两次这个指令（\otherInfo{}{}{}{}）即可
+%*********************************照片**********************************************
+%照片需要放到images文件夹下，名字必须是you.jpg，如果不需要照片可以不添加此行命令
+%0.15的意思是，照片的宽度是页面宽度的0.15倍，调整大小，避免遮挡文字
+%\yourphoto{0.135}
+%**********************************正文**********************************************
+
+
+%***大标题，下面有横线做分割
+%***一般的标题有：教育背景，实习（项目）经历，工作经历，自我评价，求职意向，等等
+
+
+%***********一行子标题**************
+%***第一个大括号里的内容向左对齐，第二个大括号里的内容向右对齐
+%***\textbf{}括号里的字是粗体，\textit{}括号里的字是斜体
+
+% \section{\faEye\  实习意向}
+% 希望找一段\textbf{MLLM Reasoning\&RL}相关的实习或合作
+
+% 做过LLM SFT, Agent以及传统RL相关的方向的研究
+
+% 在Chart2Code，Agent Code Generation，RL和AI4Sicience等领域有论文产出
+
+\section{\faGraduationCap\  教育背景}
+\foursubsection{\textbf{中国科学院自动化研究所}} {\textit{博士}} {\textit{模式识别}} {2022.09 -- 2027.06}
+
+% \textit{导师:}\ 徐波   \textit{合作导师:}\ 张铁林
+
+% \textit{实验室:}\ 复杂系统认知与决策国家实验室
+
+% \textit{研究方向:}\ MLLM \& AI4Science
+
+
+\foursubsection{\textbf{电子科技大学}}{\textit{学士}}{\textit{电子信息工程}}{2018.09 -- 2022.06}
+\
+\textit{GPA:}\ 3.85/4.0 \textit{排名:}\ 5\%
+
+
+% \textit{前研究方向:}\ 强化学习 \& 类脑神经网络
+
+\section{\faBriefcase\ 实习经历}
+\threesubsection{\textbf{启元\&面壁}}{\textit{指导人:施琦, 陈驰, 李宇轩}}{2024年7月 - 2025年4月}
+\begin{itemize}
+    \item \textbf{多模态代码生成研究}：针对现有模型在图表代码生成中的短板，主导提出了首个图表代码模型 \textit{ChartCoder}，在相关任务上取得SOTA性能。此外，定义了基于代码的图表编辑新任务，构建高质量人工标注评测集 \textit{ChartEdit}，全方位评估模型代码编辑能力。
+    \item \textbf{智能体自动实验复现}：针对科研复现难题，提出 \textit{AutoReproduce} 框架，利用检索引用论文以提升复现成功率。构建了基于智能体的复现评测集，系统性量化评估了智能体的科研辅助能力。
+\end{itemize}
+
+\threesubsection{\textbf{百度\quad 搜索策略组}}{\textit{指导人:陈修意}}{2025年4月 - 2025年7月}
+\begin{itemize}
+    \item \textbf{多模态AI4Science研究}：面向化学领域多模态任务，设计并实现了 \textit{TinyChemVL} 模型。通过视觉 Token 的自适应剪枝与合并机制，显著提升了模型对关键分子结构的注意力捕捉能力。构建了高难度的图像化学反应评测集，拓展了化学多模态任务的边界。
+\end{itemize}
+
+\threesubsection{\textbf{美团\quad LongCat Omni 基座组}}{\textit{指导人:曾志雄}}{2025年8月 - 2026年2月}
+\begin{itemize}
+    \item \textbf{基座多模态代码生成能力建设}：旨在提升基座模型的多模态代码生成能力。构建涵盖10类场景的大规模多模态代码数据集，提出 \textit{VinciCoder} 框架，引入基于视觉反馈的强化学习机制，大幅提升生成代码的视觉保真度，在多个相关评测集上达成SOTA。
+    \item \textbf{基座Web智能体能力建设}：探索多样化数据合成范式，构建了覆盖从预训练到后训练全阶段的高质量数据流，持续迭代优化基座模型的网页Agent能力。
+\end{itemize}
+
+\threesubsection{\textbf{月之暗面\quad RL组}}{\textit{指导人:}}{2026年2月 - 2026年2月}
+
+\section{\faBook\ 学术论文 (Selected)}
+\begin{itemize}
+\item \textbf{Xuanle Zhao}, Xianzhen Luo, Qi Shi, Chi Chen, \textit{et al.} \textcolor{Navy}{ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation.} \conf{ACL'25}
+% \textit{Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics .}
+\item \textbf{Xuanle Zhao}, Xuexin Liu, Haoyue Yang, \textit{et al.} \textcolor{Navy}{\textsc{ChartEdit}: How Far Are MLLMs From Automating Chart Analysis? Evaluating MLLMs' Capability via Chart Editing.} \conf{ACL'25}
+% \textit{Findings of the Association for Computational Linguistics ACL 2025 .}
+\item \textbf{Xuanle Zhao}, Shuxin Zeng, Xinyuan Cai, \textit{et al.} \textcolor{Navy}{TinyChemVL: Boosting Chemical Vision-Language Models with Efficient Visual Token Reduction and Code Generation.} \conf{AAAI'26}
+% \textit{The 40th Annual AAAI Conference on Artificial Intelligence .}
+\item \textbf{Xuanle Zhao}, Duzhen Zhang, Liyuan Han, \textit{et al.} \textcolor{Navy}{ODE-based Recurrent Model-free Reinforcement Learning for POMDPs.} \conf{NeurIPS'23}
+% \textit{Advances in Neural Information Processing Systems 2023 .}
+\item \textbf{Xuanle Zhao}, Zilin Sang, Yuxuan Li, Qi Shi, \textit{et al.} \textcolor{Navy}{\textsc{AutoReproduce}: Automatic AI Experiment Reproduction with Paper Lineage.} \conf{Preprint}.
+\item \textbf{Xuanle Zhao}, Deyang Jiang, Zhixiong Zeng, \textit{et al.} \textcolor{Navy}{VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning.} \conf{Preprint}.
+\item \textbf{Xuanle Zhao}, Xinyuan Cai, Xiang Cheng, \textit{et al.} \textcolor{Navy}{ChemVLR: Prioritizing Reasoning in Perception for Chemical Vision-Language Understanding.} \conf{Submitted to ACL'26}.
+\end{itemize}
+
+
+
+
+
+\section{\faCogs\ 技能}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.5ex]
+    \item {熟悉LLaVA, InternVL, QwenVL 等主流多模态大模型架构, 了解swift, EasyR1等大模型后训练框架。} 
+  \item 担任 KDD, ICLR, ACL, NeurIPS, CVPR 等顶会审稿人
+  \item {CET-4 (582)， CET-6 (488)， 雅思(6.5), 具备良好的英文文献阅读和写作能力}
+\end{itemize}
+
+% \section{\faTrophy\ 获奖情况}
+% \datedline{优秀学生奖学金}{2020年}
+% \datedline{电子科技大学优秀毕业生}{2022年}
+
+
+
+%\section{\faInfo\ 其他}
+% increase linespacing [parsep=0.5ex]
+%\begin{itemize}[parsep=0.5ex]
+%  \item 技术博客: http://blog.yours.me
+  %\item GitHub: https://github.com/username
+ % \item 语言: 英语 - 熟练(TOEFL xxx)
+%\end{itemize}
+
+%% Reference
+%\newpage
+%\bibliographystyle{IEEETran}
+%\bibliography{mycite}
+\end{document}

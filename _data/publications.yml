@@ -1,0 +1,57 @@
+main:
+  - title: "Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR"
+    authors: Yufeng Zhong*, Lei Chen*, Zhixiong Zeng, <strong>Xuanle Zhao</strong>, Deyang Jiang, Liming Zheng, Jing Huang, Haibo Qiu, Peng Shi, Siqi Yang, Lin Ma
+    conference_short: CVPR'26
+    conference: "The 43rd IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+    arxiv: https://arxiv.org/pdf/2601.08834
+    code: https://github.com/DocTron-hub/FD-RL
+
+  - title: "VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning"
+    authors: "<strong>Xuanle Zhao</strong>, Deyang Jiang, Zhixiong Zeng, Lei Chen, Haibo Qiu, Jing Huang, Yufeng Zhong, Liming Zheng, Yilin Cao, Lin Ma"
+    conference_short: arXiv
+    conference: "arXiv preprint, 2025."
+    arxiv: https://arxiv.org/abs/2511.00391
+    code: https://github.com/DocTron-hub/VinciCoder
+
+  - title: "Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation"
+    authors: Lei Chen, <strong>Xuanle Zhao</strong>, Zhixiong Zeng, Jing Huang, Liming Zheng, Yufeng Zhong, Lin Ma
+    conference_short: ICLR'26
+    conference: "The 14th International Conference on Learning Representations"
+    arxiv: https://arxiv.org/abs/2508.13587
+    code: https://github.com/DocTron-hub/MSRL
+
+  - title: "TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks"
+    authors: "<strong>Xuanle Zhao</strong>, Shuxin Zeng, Xinyuan Cai, Xiang Cheng, Duzhen Zhang, Xiuyi Chen, Bo Xu"
+    conference_short: AAAI'26
+    conference: "The 40th AAAI Conference on Artificial Intelligence"
+    arxiv: https://arxiv.org/abs/2511.06283
+    code: https://github.com/xxlllz/TinyChemVL
+
+  - title: "AutoReproduce: Automatic AI Experiment Reproduction with Paper Lineage"
+    authors: "<strong>Xuanle Zhao</strong>, Zilin Sang, Yuxuan Li, Qi Shi, Weilun Zhao, Shuo Wang, Duzhen Zhang, Xu Han, Zhiyuan Liu, Maosong Sun"
+    conference_short: arXiv
+    conference: "arXiv preprint, 2025."
+    arxiv: https://arxiv.org/abs/2505.20662
+    code: https://github.com/AI9Stars/AutoReproduce
+
+  - title: "ChartEdit: How Far Are MLLMs From Automating Chart Analysis? Evaluating MLLMs' Capability via Chart Editing"
+    authors: "<strong>Xuanle Zhao*</strong>, Xuexin Liu*, Haoyue Yang*, Xianzhen Luo, Fanhu Zeng, Jianling Li, Qi Shi, Chi Chen"
+    conference_short: ACL'25
+    conference: "Findings of the 63rd Annual Meeting of the Association for Computational Linguistics"
+    arxiv: https://arxiv.org/abs/2505.11935
+    code: https://github.com/xxllz/ChartEdit
+
+  - title: "ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation"
+    authors: "<strong>Xuanle Zhao</strong>, Xianzhen Luo, Qi Shi, Chi Chen, Shuo Wang, Zhiyuan Liu, Maosong Sun"
+    conference_short: ACL'25
+    conference: "The 63rd Annual Meeting of the Association for Computational Linguistics"
+    arxiv: https://arxiv.org/abs/2501.06598
+    code: https://github.com/thunlp/ChartCoder
+
+  - title: "ODE-based Recurrent Model-free Reinforcement Learning for POMDPs"
+    authors: "<strong>Xuanle Zhao</strong>, Duzhen Zhang, Liyuan Han, Tielin Zhang, Bo Xu"
+    conference_short: NeurIPS'23
+    conference: "The 37th Conference on Neural Information Processing Systems"
+    arxiv: https://arxiv.org/abs/2309.14078
+    code: https://github.com/xxlllz/ODE-based-RL
+
