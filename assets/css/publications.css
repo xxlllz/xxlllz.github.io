@@ -71,6 +71,14 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .title { font-weight: bolder; }
 
+.conf-badge {
+  display: inline;
+  color: #002D72;
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 6px;
+}
+
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
 .publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }

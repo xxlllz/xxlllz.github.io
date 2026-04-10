@@ -4,10 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I received my B.S. degree from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2022. Currently, I am a research intern at [Moonshot AI](https://www.moonshot.cn/).
+Hello! I am a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). 
+My research interests include Multimodal Code Generation and AI for Science.
+Prior to that, I received my B.S. degree from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2022. Currently, I am a research intern at [Moonshot AI](https://www.moonshot.cn/).
 
+
+## News
+
+- [2026.04] 🎉 [AutoReproduce](https://arxiv.org/abs/2505.20662) accepted by ACL 2026, [ChemVLR](https://arxiv.org/abs/2604.06685) and [OmniDiagram](https://arxiv.org/abs/2505.03733) accepted by Findings of ACL 2026! Congratulations to all our collaborators!
 
 ## Publications <span style="font-size: 0.8em;">(Selected, * Equal contribution)</span>
+
 {% include_relative _includes/publications.md %}
 
 ## Internships

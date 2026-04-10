@@ -1,9 +1,30 @@
 main:
+  - title: "ChemVLR: Prioritizing Reasoning in Perception for Chemical Vision-Language Understanding"
+    authors: "<strong>Xuanle Zhao</strong>, Xinyuan Cai, Xiang Cheng, Xiuyi Chen, Bo Xu"
+    conference_short: ACL'26 Findings
+    conference: "Findings of the 64th Annual Meeting of the Association for Computational Linguistics"
+    arxiv: https://arxiv.org/abs/2604.06685
+    code: https://github.com/xxlllz/ChemVLR
+
+  - title: "OmniDiagram: Advancing Unified Diagram Code Generation via Visual Interrogation Reward"
+    authors: "Haoyue Yang*, <strong>Xuanle Zhao*</strong>, Xuexin Liu*, Feibang Jiang, Yao Zhu"
+    conference_short: ACL'26 Findings
+    conference: "Findings of the 64th Annual Meeting of the Association for Computational Linguistics"
+    arxiv: https://arxiv.org/abs/2505.03733
+    code: https://github.com/Haoyue-Yang/OmniDiagram
+
+  - title: "AutoReproduce: Automatic AI Experiment Reproduction with Paper Lineage"
+    authors: "<strong>Xuanle Zhao</strong>, Zilin Sang, Yuxuan Li, Qi Shi, Weilun Zhao, Shuo Wang, Duzhen Zhang, Xu Han, Zhiyuan Liu, Maosong Sun"
+    conference_short: ACL'26
+    conference: "The 64th Annual Meeting of the Association for Computational Linguistics"
+    arxiv: https://arxiv.org/abs/2505.20662
+    code: https://github.com/AI9Stars/AutoReproduce
+
   - title: "Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR"
     authors: Yufeng Zhong*, Lei Chen*, Zhixiong Zeng, <strong>Xuanle Zhao</strong>, Deyang Jiang, Liming Zheng, Jing Huang, Haibo Qiu, Peng Shi, Siqi Yang, Lin Ma
     conference_short: CVPR'26
     conference: "The 43rd IEEE/CVF Conference on Computer Vision and Pattern Recognition"
-    arxiv: https://arxiv.org/pdf/2601.08834
+    arxiv: https://arxiv.org/abs/2601.08834
     code: https://github.com/DocTron-hub/FD-RL
 
   - title: "VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning"
@@ -27,16 +48,9 @@ main:
     arxiv: https://arxiv.org/abs/2511.06283
     code: https://github.com/xxlllz/TinyChemVL
 
-  - title: "AutoReproduce: Automatic AI Experiment Reproduction with Paper Lineage"
-    authors: "<strong>Xuanle Zhao</strong>, Zilin Sang, Yuxuan Li, Qi Shi, Weilun Zhao, Shuo Wang, Duzhen Zhang, Xu Han, Zhiyuan Liu, Maosong Sun"
-    conference_short: arXiv
-    conference: "arXiv preprint, 2025."
-    arxiv: https://arxiv.org/abs/2505.20662
-    code: https://github.com/AI9Stars/AutoReproduce
-
   - title: "ChartEdit: How Far Are MLLMs From Automating Chart Analysis? Evaluating MLLMs' Capability via Chart Editing"
     authors: "<strong>Xuanle Zhao*</strong>, Xuexin Liu*, Haoyue Yang*, Xianzhen Luo, Fanhu Zeng, Jianling Li, Qi Shi, Chi Chen"
-    conference_short: ACL'25
+    conference_short: ACL'25 Findings
     conference: "Findings of the 63rd Annual Meeting of the Association for Computational Linguistics"
     arxiv: https://arxiv.org/abs/2505.11935
     code: https://github.com/xxllz/ChartEdit

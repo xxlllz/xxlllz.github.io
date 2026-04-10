@@ -8,7 +8,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.arxiv }}" target="_blank">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}{% if link.conference_short %} ({{ link.conference_short }}){% endif %}</em>
+      <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
       {% if link.pdf %}
@@ -28,6 +28,9 @@
       {% endif %}
       {% if link.notes %}
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %}
+      {% if link.conference_short %}
+      &nbsp;<strong> <i style="color:#e74d3c">{{ link.conference_short }}</i></strong>
       {% endif %}
     </div>
   </div>
