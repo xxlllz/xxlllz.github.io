@@ -11,7 +11,8 @@ Prior to that, I received my B.S. degree from [University of Electronic Science 
 
 ## News
 
-- [2026.04] 🎉 [AutoReproduce](https://arxiv.org/abs/2505.20662) accepted by ACL 2026, [ChemVLR](https://arxiv.org/abs/2604.06685) and [OmniDiagram](https://arxiv.org/abs/2505.03733) accepted by Findings of ACL 2026! Congratulations to all our collaborators!
+- [2026.05] 🎉 [TreeCUA](https://arxiv.org/abs/2602.09662) accepted by ICML 2026!
+- [2026.04] 🎉 [AutoReproduce](https://arxiv.org/abs/2505.20662) accepted by ACL 2026, [ChemVLR](https://arxiv.org/abs/2604.06685) and [OmniDiagram](https://arxiv.org/abs/2505.03733) accepted by Findings of ACL 2026!
 
 ## Publications <span style="font-size: 0.8em;">(Selected, * Equal contribution)</span>
 

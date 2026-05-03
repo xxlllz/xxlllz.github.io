@@ -15,6 +15,11 @@ I received my B.S. degree from [University of Electronic Science and Technology 
 
 ## Publications
 
+**TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution**
+Deyang Jiang\*, Jing Huang\*, *Xuanle Zhao*\*, Lei Chen, Liming Zheng, Fanfan Liu, Haibo Qiu, Peng Shi, Zhixiong Zeng
+ICML 2026
+[arXiv](https://arxiv.org/abs/2602.09662) / [Code](https://github.com/UITron-hub/TreeCUA)
+
 **TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks**
 *Xuanle Zhao*, Shuxin Zeng, Xinyuan Cai, Xiang Cheng, Duzhen Zhang, Xiuyi Chen, Bo Xu
 AAAI 2026

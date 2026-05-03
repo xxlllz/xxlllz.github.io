@@ -1,4 +1,11 @@
 main:
+  - title: "TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution"
+    authors: "Deyang Jiang*, Jing Huang*, <strong>Xuanle Zhao*</strong>, Lei Chen, Liming Zheng, Fanfan Liu, Haibo Qiu, Peng Shi, Zhixiong Zeng"
+    conference_short: ICML'26
+    conference: "The 43rd International Conference on Machine Learning"
+    arxiv: https://arxiv.org/abs/2602.09662
+    code: https://github.com/UITron-hub/TreeCUA
+
   - title: "ChemVLR: Prioritizing Reasoning in Perception for Chemical Vision-Language Understanding"
     authors: "<strong>Xuanle Zhao</strong>, Xinyuan Cai, Xiang Cheng, Xiuyi Chen, Bo Xu"
     conference_short: ACL'26 Findings
@@ -68,4 +75,3 @@ main:
     conference: "The 37th Conference on Neural Information Processing Systems"
     arxiv: https://arxiv.org/abs/2309.14078
     code: https://github.com/xxlllz/ODE-based-RL
-
