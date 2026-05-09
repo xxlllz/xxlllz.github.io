@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). 
+Hello! I am a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/), under the supervision of Bo Xu and Xinyuan Cai. 
 My research interests include Multimodal Code Generation and AI for Science.
 Prior to that, I received my B.S. degree from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2022. Currently, I am a research intern at [Moonshot AI](https://www.moonshot.cn/).
 
