@@ -1,4 +1,13 @@
 main:
+  - title: "Kimi K2.6: Advancing Open-Source Coding"
+    authors: "Xuanle Zhao, contributor to WebDev Agents"
+    conference_short: Technical Blog
+    conference: "Moonshot AI"
+    blog: https://www.kimi.com/blog/kimi-k2-6
+    blog_label: Blog
+    page: https://www.kimi.com/ai-models/kimi-k2-6
+    page_label: Model
+
   - title: "TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution"
     authors: "Deyang Jiang*, Jing Huang*, <strong>Xuanle Zhao*</strong>, Lei Chen, Liming Zheng, Fanfan Liu, Haibo Qiu, Peng Shi, Zhixiong Zeng"
     conference_short: ICML'26
@@ -26,6 +35,13 @@ main:
     conference: "The 64th Annual Meeting of the Association for Computational Linguistics"
     arxiv: https://arxiv.org/abs/2505.20662
     code: https://github.com/AI9Stars/AutoReproduce
+
+  - title: "OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models"
+    authors: "Yufeng Zhong*, Lei Chen*, <strong>Xuanle Zhao*</strong>, Wenkang Han, Liming Zheng, Jing Huang, Deyang Jiang, Yilin Cao, Lin Ma, Zhixiong Zeng"
+    conference_short: OCR Report
+    conference: "arXiv preprint, 2026."
+    arxiv: https://arxiv.org/abs/2601.21639
+    code: https://github.com/DocTron-hub/OCRVerse
 
   - title: "Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR"
     authors: Yufeng Zhong*, Lei Chen*, Zhixiong Zeng, <strong>Xuanle Zhao</strong>, Deyang Jiang, Liming Zheng, Jing Huang, Haibo Qiu, Peng Shi, Siqi Yang, Lin Ma
