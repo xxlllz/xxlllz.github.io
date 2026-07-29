@@ -8,6 +8,14 @@ main:
     page: https://www.kimi.com/ai-models/kimi-k2-6
     page_label: Model
 
+  - title: "Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence"
+    authors: "<strong>Xuanle Zhao*</strong>, Qiushi Sun*, Jingyu Xiao*, Xuexin Liu, Haoyue Yang, Qiaosheng Chen, Xianzhen Luo, Jing Huang, Yufeng Zhong, Lei Chen, Shuai Fu, Zhenlin Wei, Jinhe Bi, Lei Jiang, Haibo Qiu, Siqi Yang, Peng Shi, Jian Hu, Zhixiong Zeng"
+    conference_short: TMLR'26
+    conference: "Transactions on Machine Learning Research"
+    arxiv: https://arxiv.org/abs/2606.15932
+    page: https://github.com/xjywhu/Awesome-Multimodal-LLM-for-Code
+    page_label: Repo
+
   - title: "TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution"
     authors: "Deyang Jiang*, Jing Huang*, <strong>Xuanle Zhao*</strong>, Lei Chen, Liming Zheng, Fanfan Liu, Haibo Qiu, Peng Shi, Zhixiong Zeng"
     conference_short: ICML'26
