@@ -1,6 +1,14 @@
 main:
+  - title: "Kimi K3: Open Frontier Intelligence"
+    authors: "Xuanle Zhao, contribute to WebDev Agents"
+    conference_short: arXiv
+    conference: "arXiv preprint, 2026."
+    arxiv: https://arxiv.org/abs/2607.24653
+    page: https://huggingface.co/moonshotai/Kimi-K3
+    page_label: Model
+
   - title: "Kimi K2.6: Advancing Open-Source Coding"
-    authors: "Xuanle Zhao, contributor to WebDev Agents"
+    authors: "Xuanle Zhao, contribute to WebDev Agents"
     conference_short: Technical Blog
     conference: "Moonshot AI"
     blog: https://www.kimi.com/blog/kimi-k2-6
