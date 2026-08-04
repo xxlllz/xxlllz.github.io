@@ -14,7 +14,7 @@ I expect to graduate in Summer 2027 and am currently seeking research or enginee
 
 ## News
 
-- [2026.07] 🎉 Our work on [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) is now available on arXiv!
+- [2026.07] 🎉 [Kimi K3](https://huggingface.co/moonshotai/Kimi-K3) is released! I am glad to have contributed to it.
 - [2026.07] 🎉 Our survey about [Multimodal Code Intelligence](https://arxiv.org/abs/2606.15932) accepted by TMLR!
 - [2026.05] 🎉 [TreeCUA](https://arxiv.org/abs/2602.09662) accepted by ICML 2026!
 - [2026.04] 🎉 [AutoReproduce](https://arxiv.org/abs/2505.20662) accepted by ACL 2026, [ChemVLR](https://arxiv.org/abs/2604.06685) and [OmniDiagram](https://arxiv.org/abs/2505.03733) accepted by Findings of ACL 2026!
