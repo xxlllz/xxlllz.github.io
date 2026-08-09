@@ -7,7 +7,7 @@ layout: homepage
 Hello! I am a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/), under the supervision of Bo Xu and Xinyuan Cai. 
 My research interests include Multimodal Code Generation and AI for Science.
 Prior to that, I received my B.S. degree from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2022. Currently, I am a research intern at [Moonshot AI](https://www.moonshot.cn/).
-My current research mainly focuses on visual coding agents for scenarios such as web, game, and SVG generation.
+My current research mainly focuses on WebDev Coding agents for scenarios such as web, game, and SVG generation.
 
 I expect to graduate in Summer 2027 and am currently seeking research or engineering positions related to LLMs.
 
@@ -27,7 +27,7 @@ I expect to graduate in Summer 2027 and am currently seeking research or enginee
 
 * **2026.02 - Present**  Research Intern, [Moonshot AI](https://www.moonshot.cn/)  
 Work with: RL Team  
-Research Focus: Vibe Coding Agents
+Research Focus: WebDev Coding agents
 
 * **2025.08 - 2026.02**  Research Intern, Meituan M17 LongCat-Omni  
 Adviser: [Zhixiong Zeng](https://scholar.google.com.hk/citations?user=LhKgnswAAAAJ&hl=zh-CN&oi=ao)  
