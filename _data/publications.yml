@@ -16,6 +16,13 @@ main:
     page: https://www.kimi.com/ai-models/kimi-k2-6
     page_label: Model
 
+  - title: "VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning"
+    authors: "<strong>Xuanle Zhao</strong>, Deyang Jiang, Zhixiong Zeng, Lei Chen, Haibo Qiu, Jing Huang, Yufeng Zhong, Liming Zheng, Yilin Cao, Lin Ma"
+    conference_short: EMNLP'26
+    conference: "The 2026 Conference on Empirical Methods in Natural Language Processing"
+    arxiv: https://arxiv.org/abs/2511.00391
+    code: https://github.com/DocTron-hub/VinciCoder
+
   - title: "Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence"
     authors: "<strong>Xuanle Zhao*</strong>, Qiushi Sun*, Jingyu Xiao*, Xuexin Liu, Haoyue Yang, Qiaosheng Chen, Xianzhen Luo, Jing Huang, Yufeng Zhong, Lei Chen, Shuai Fu, Zhenlin Wei, Jinhe Bi, Lei Jiang, Haibo Qiu, Siqi Yang, Peng Shi, Jian Hu, Zhixiong Zeng"
     conference_short: TMLR'26
@@ -65,13 +72,6 @@ main:
     conference: "The 43rd IEEE/CVF Conference on Computer Vision and Pattern Recognition"
     arxiv: https://arxiv.org/abs/2601.08834
     code: https://github.com/DocTron-hub/FD-RL
-
-  - title: "VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning"
-    authors: "<strong>Xuanle Zhao</strong>, Deyang Jiang, Zhixiong Zeng, Lei Chen, Haibo Qiu, Jing Huang, Yufeng Zhong, Liming Zheng, Yilin Cao, Lin Ma"
-    conference_short: arXiv
-    conference: "arXiv preprint, 2025."
-    arxiv: https://arxiv.org/abs/2511.00391
-    code: https://github.com/DocTron-hub/VinciCoder
 
   - title: "Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation"
     authors: Lei Chen, <strong>Xuanle Zhao</strong>, Zhixiong Zeng, Jing Huang, Liming Zheng, Yufeng Zhong, Lin Ma
