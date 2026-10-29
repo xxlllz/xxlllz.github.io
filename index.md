@@ -6,15 +6,14 @@ layout: homepage
 
 Hello! I am a fourth-year Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/), under the supervision of Bo Xu and Xinyuan Cai. 
 My research interests include Multimodal Code Generation and AI for Science.
-Prior to that, I received my B.S. degree from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2022. Currently, I am a research intern at [Moonshot AI](https://www.moonshot.cn/).
-My current research mainly focuses on WebDev Coding agents for scenarios such as web, game, and SVG generation.
+Prior to that, I received my B.S. degree from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2022. Previously, I was a research intern at [Moonshot AI](https://www.moonshot.cn/) and [Meituan LongCat](https://github.com/meituan-longcat), focusing on WebDev and Visual Coding agents.
 
 I expect to graduate in Summer 2027 and am currently seeking research or engineering positions related to LLMs.
 
 
 ## News
 
-- [2026.08] 🎉 [VinciCoder](https://arxiv.org/abs/2511.00391) accepted by EMNLP 2026, and S3C-LLM accepted by Findings of EMNLP 2026!
+- [2026.08] 🎉 [VinciCoder](https://arxiv.org/abs/2511.00391) accepted by EMNLP 2026, and [S3C-LLM](https://arxiv.org/abs/2608.30910) accepted by Findings of EMNLP 2026!
 - [2026.07] 🎉 [Kimi K3](https://huggingface.co/moonshotai/Kimi-K3) is released! I am glad to have contributed to it.
 - [2026.07] 🎉 Our survey about [Multimodal Code Intelligence](https://arxiv.org/abs/2606.15932) accepted by TMLR!
 - [2026.05] 🎉 [TreeCUA](https://arxiv.org/abs/2602.09662) accepted by ICML 2026!
@@ -26,7 +25,7 @@ I expect to graduate in Summer 2027 and am currently seeking research or enginee
 
 ## Internships
 
-* **2026.02 - Present**  Research Intern, [Moonshot AI](https://www.moonshot.cn/)  
+* **2026.02 - 2026.09**  Research Intern, [Moonshot AI](https://www.moonshot.cn/)  
 Work with: RL Team  
 Research Focus: WebDev Coding agents
 

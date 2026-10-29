@@ -23,6 +23,12 @@ main:
     arxiv: https://arxiv.org/abs/2511.00391
     code: https://github.com/DocTron-hub/VinciCoder
 
+  - title: "S3C-LLM: Skill-Code Guided Agentic Language Models for Spectrum-to-Structure Elucidation"
+    authors: "<strong>Xuanle Zhao</strong>, Xinyuan Cai, Xiang Cheng, Bo Xu"
+    conference_short: EMNLP'26 Findings
+    conference: "Findings of the 2026 Conference on Empirical Methods in Natural Language Processing"
+    arxiv: https://arxiv.org/abs/2608.30910
+
   - title: "Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence"
     authors: "<strong>Xuanle Zhao*</strong>, Qiushi Sun*, Jingyu Xiao*, Xuexin Liu, Haoyue Yang, Qiaosheng Chen, Xianzhen Luo, Jing Huang, Yufeng Zhong, Lei Chen, Shuai Fu, Zhenlin Wei, Jinhe Bi, Lei Jiang, Haibo Qiu, Siqi Yang, Peng Shi, Jian Hu, Zhixiong Zeng"
     conference_short: TMLR'26

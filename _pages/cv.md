@@ -33,7 +33,7 @@ Work Experience
   * **Foundation Model Multimodal Code Generation**: Built large-scale multimodal code dataset covering 10 scenarios. Proposed **VinciCoder** framework with visual feedback-based RL mechanism, significantly improving visual fidelity of generated code and achieving SOTA on multiple benchmarks.
   * **Foundation Model Web Agent Capability**: Explored diverse data synthesis paradigms, constructed high-quality data pipeline covering pre-training to post-training stages.
 
-* **February 2026 - Present**: Research Intern, Moonshot AI RL Group
+* **February 2026 - September 2026**: Research Intern, Moonshot AI RL Group
 
 Publications
 ======
