@@ -1,6 +1,6 @@
 main:
   - title: "Kimi K3: Open Frontier Intelligence"
-    authors: "Xuanle Zhao, contribute to WebDev Agents"
+    authors: "Kimi Team (Xuanle Zhao as a contributor)"
     conference_short: Technical Report
     conference: "Moonshot AI"
     arxiv: https://arxiv.org/abs/2607.24653
@@ -8,12 +8,20 @@ main:
     page_label: Model
 
   - title: "Kimi K2.6: Advancing Open-Source Coding"
-    authors: "Xuanle Zhao, contribute to WebDev Agents"
+    authors: "Kimi Team (Xuanle Zhao as a contributor)"
     conference_short: Technical Blog
     conference: "Moonshot AI"
     blog: https://www.kimi.com/blog/kimi-k2-6
     blog_label: Blog
     page: https://www.kimi.com/ai-models/kimi-k2-6
+    page_label: Model
+
+  - title: "Kimi K2.5: Visual Agentic Intelligence"
+    authors: "Kimi Team (Xuanle Zhao as a contributor)"
+    conference_short: Technical Report
+    conference: "Moonshot AI"
+    arxiv: https://arxiv.org/abs/2602.02276
+    page: https://huggingface.co/moonshotai/Kimi-K2.5
     page_label: Model
 
   - title: "VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning"
