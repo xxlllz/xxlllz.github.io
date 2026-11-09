@@ -19,17 +19,17 @@ Education
 
 Work Experience
 ======
-* **July 2024 - April 2025**: Research Intern, QiYuan & ModelBest
+* **July 2024 - May 2025**: Research Intern, ModelBest
   * Mentors: Qi Shi, Chi Chen, Yuxuan Li
   * **Multimodal Code Generation Research**: Proposed **ChartCoder**, the first chart-to-code generation model, achieving SOTA performance. Defined the novel task of code-based chart editing and constructed the high-quality human-annotated benchmark **ChartEdit**.
   * **Agent-based Automatic Experiment Reproduction**: Proposed **AutoReproduce** framework to improve reproduction success rate by retrieving and referencing papers. Built an agent-based reproduction benchmark.
 
-* **April 2025 - July 2025**: Research Intern, Baidu Search Strategy Group
+* **May 2025 - July 2025**: Research Intern, Baidu Search Strategy Group
   * Mentor: Xiuyi Chen
   * **Multimodal AI4Science Research**: Designed **TinyChemVL** model for chemical multimodal tasks. Introduced adaptive visual token pruning and merging mechanism to enhance focus on key molecular structures. Built challenging image-based chemical reaction benchmarks.
 
-* **August 2025 - February 2026**: Research Intern, Meituan LongCat Omni Foundation Model Group
-  * Mentor: Zhixiong Zeng
+* **August 2025 - February 2026**: Research Intern, Meituan LongCat
+  * Mentor: Lin Ma, Zhixiong Zeng
   * **Foundation Model Multimodal Code Generation**: Built large-scale multimodal code dataset covering 10 scenarios. Proposed **VinciCoder** framework with visual feedback-based RL mechanism, significantly improving visual fidelity of generated code and achieving SOTA on multiple benchmarks.
   * **Foundation Model Web Agent Capability**: Explored diverse data synthesis paradigms, constructed high-quality data pipeline covering pre-training to post-training stages.
 
@@ -70,17 +70,17 @@ Academic Service
 
 实习经历
 ======
-* **2024年7月 - 2025年4月**: 启元 & 面壁 研究实习生
+* **2024年7月 - 2025年5月**: 面壁 研究实习生
   * 指导人: 施琦, 陈驰, 李宇轩
   * **多模态代码生成研究**: 主导提出首个图表代码生成模型 **ChartCoder**，在相关任务上取得SOTA性能。定义了基于代码的图表编辑新任务，构建高质量人工标注评测集 **ChartEdit**。
   * **智能体自动实验复现**: 提出 **AutoReproduce** 框架，利用检索引用论文提升复现成功率。构建基于智能体的复现评测集。
 
-* **2025年4月 - 2025年7月**: 百度 搜索策略组 研究实习生
+* **2025年5月 - 2025年7月**: 百度 搜索策略组 研究实习生
   * 指导人: 陈修意
   * **多模态AI4Science研究**: 设计并实现 **TinyChemVL** 模型。通过视觉Token的自适应剪枝与合并机制，提升模型对关键分子结构的注意力捕捉能力。构建高难度图像化学反应评测集。
 
-* **2025年8月 - 2026年2月**: 美团 LongCat Omni 基座组 研究实习生
-  * 指导人: 曾志雄
+* **2025年8月 - 2026年2月**: 美团 LongCat 研究实习生
+  * 指导人: 马林, 曾志雄
   * **基座多模态代码生成能力建设**: 构建涵盖10类场景的大规模多模态代码数据集，提出 **VinciCoder** 框架，引入基于视觉反馈的强化学习机制，大幅提升生成代码的视觉保真度，达成SOTA。
   * **基座Web智能体能力建设**: 探索多样化数据合成范式，构建覆盖从预训练到后训练全阶段的高质量数据流。
 

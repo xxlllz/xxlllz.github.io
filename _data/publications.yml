@@ -66,8 +66,8 @@ main:
 
   - title: "OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models"
     authors: "Yufeng Zhong*, Lei Chen*, <strong>Xuanle Zhao*</strong>, Wenkang Han, Liming Zheng, Jing Huang, Deyang Jiang, Yilin Cao, Lin Ma, Zhixiong Zeng"
-    conference_short: OCR Report
-    conference: "arXiv preprint, 2026."
+    conference_short: Technical Report
+    conference: "arXiv preprint, 2026"
     arxiv: https://arxiv.org/abs/2601.21639
     code: https://github.com/DocTron-hub/OCRVerse
 
@@ -97,7 +97,7 @@ main:
     conference_short: ACL'25 Findings
     conference: "Findings of the 63rd Annual Meeting of the Association for Computational Linguistics"
     arxiv: https://arxiv.org/abs/2505.11935
-    code: https://github.com/xxllz/ChartEdit
+    code: https://github.com/xxlllz/ChartEdit
 
   - title: "ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation"
     authors: "<strong>Xuanle Zhao</strong>, Xianzhen Luo, Qi Shi, Chi Chen, Shuo Wang, Zhiyuan Liu, Maosong Sun"
