@@ -35,7 +35,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ul.pub-list li p { margin: 0 0 0.5em; }
 
-.publications ul.pub-list .pub-title { font-weight: 700; }
+.publications ul.pub-list .pub-title,
+.publications ul.pub-list strong { font-weight: 700; }
 
 .publications ul.pub-list .pub-notes { color: #e74d3c; margin-left: 0.25em; }
 
