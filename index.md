@@ -28,21 +28,14 @@ I expect to graduate in Summer 2027 and am currently seeking research or enginee
 
 ## Internships
 
-* **2026.02 - 2026.09**, Intern, Moonshot AI  
-RL Team  
-Focus: WebDev Coding Agents
-
-* **2025.08 - 2026.02**, Intern, Meituan LongCat  
-Adviser: [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=en), [Zhixiong Zeng](https://scholar.google.com.hk/citations?user=LhKgnswAAAAJ&hl=zh-CN&oi=ao)  
-Focus: Visual Coding RL and VLM Agents
-
-* **2025.05 - 2025.07**, Intern, Baidu  
-Adviser: [Xiuyi Chen](https://scholar.google.com.hk/citations?user=LAeLBYoAAAAJ&hl=zh-CN&oi=ao)  
-Focus: AI4Science and Chemical VLM
-
-* **2024.07 - 2025.05**, Intern, ModelBest  
-Adviser: [Qi Shi](https://scholar.google.com.hk/citations?user=yOadtUQAAAAJ), [Chi Chen](https://scholar.google.com.hk/citations?user=2jpvQ90AAAAJ), [Yuxuan Li](https://scholar.google.com.hk/citations?user=nAJmE48AAAAJ&hl=zh-CN&oi=ao)  
-Focus: Visual Coding and LLM Agents
+* <span class="exp-head"><span><strong>Moonshot AI</strong>, Intern, RL Team</span><span class="exp-date">2026.02 - 2026.09</span></span>
+  Focus: WebDev Coding Agents
+* <span class="exp-head"><span><strong>Meituan LongCat</strong>, Intern</span><span class="exp-date">2025.08 - 2026.02</span></span>
+  Adviser: [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=en), [Zhixiong Zeng](https://scholar.google.com.hk/citations?user=LhKgnswAAAAJ&hl=zh-CN&oi=ao) · Focus: Visual Coding RL and VLM Agents
+* <span class="exp-head"><span><strong>Baidu</strong>, Intern</span><span class="exp-date">2025.05 - 2025.07</span></span>
+  Adviser: [Xiuyi Chen](https://scholar.google.com.hk/citations?user=LAeLBYoAAAAJ&hl=zh-CN&oi=ao) · Focus: AI4Science and Chemical VLM
+* <span class="exp-head"><span><strong>ModelBest</strong>, Intern</span><span class="exp-date">2024.07 - 2025.05</span></span>
+  Adviser: [Qi Shi](https://scholar.google.com.hk/citations?user=yOadtUQAAAAJ), [Chi Chen](https://scholar.google.com.hk/citations?user=2jpvQ90AAAAJ), [Yuxuan Li](https://scholar.google.com.hk/citations?user=nAJmE48AAAAJ&hl=zh-CN&oi=ao) · Focus: Visual Coding and LLM Agents
 
 ## Education
 

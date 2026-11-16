@@ -35,3 +35,8 @@ header {
   padding: 0 !important;
   display: block !important;
 }
+
+/* Internships: organization on the left, dates pushed to the right edge */
+.exp-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0 1em; }
+.exp-date { font-variant-numeric: tabular-nums; white-space: nowrap; }
+@media (max-width: 600px) { .exp-head { flex-direction: column; } }
