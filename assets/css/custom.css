@@ -3,6 +3,15 @@ section {
   padding-left: 20px !important;
 }
 
+/* One list rhythm for every section (News, Technical Reports, Publications,
+   Internships, Education), modeled on gao-hongcheng.github.io */
+section ul { padding-left: 2em; margin: 0 0 20px; }
+section ul li { margin-bottom: 0.5em; }
+section ul li > p { margin: 0 0 0.5em; }
+section ul li:last-child,
+section ul li:last-child > p:last-child { margin-bottom: 0; }
+section li strong { font-weight: 700; }
+
 header {
   text-align: center !important;
 }
