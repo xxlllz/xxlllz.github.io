@@ -1,6 +1,6 @@
 main:
   - title: "Kimi K3: Open Frontier Intelligence"
-    authors: "Kimi Team (Xuanle Zhao as a contributor)"
+    authors: "<strong>Kimi Team</strong> (Xuanle Zhao as a contributor)"
     conference_short: Technical Report
     conference: "Moonshot AI"
     arxiv: https://arxiv.org/abs/2607.24653
@@ -8,7 +8,7 @@ main:
     page_label: Model
 
   - title: "Kimi K2.5: Visual Agentic Intelligence"
-    authors: "Kimi Team (Xuanle Zhao as a contributor)"
+    authors: "<strong>Kimi Team</strong> (Xuanle Zhao as a contributor)"
     conference_short: Technical Report
     conference: "Moonshot AI"
     arxiv: https://arxiv.org/abs/2602.02276
@@ -66,7 +66,7 @@ main:
 
   - title: "OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models"
     authors: "Yufeng Zhong*, Lei Chen*, <strong>Xuanle Zhao*</strong>, Wenkang Han, Liming Zheng, Jing Huang, Deyang Jiang, Yilin Cao, Lin Ma, Zhixiong Zeng"
-    conference_short: Technical Report
+    conference_short: arXiv'26
     conference: "arXiv preprint, 2026"
     arxiv: https://arxiv.org/abs/2601.21639
     code: https://github.com/DocTron-hub/OCRVerse

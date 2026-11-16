@@ -18,9 +18,13 @@ I expect to graduate in Summer 2027 and am currently seeking research or enginee
 - [2026.05] 🎉 [TreeCUA](https://arxiv.org/abs/2602.09662) accepted by ICML 2026!
 - [2026.04] 🎉 [AutoReproduce](https://arxiv.org/abs/2505.20662) accepted by ACL 2026, and both [ChemVLR](https://arxiv.org/abs/2604.06685) and [OmniDiagram](https://arxiv.org/abs/2505.03733) accepted by Findings of ACL 2026!
 
+## Technical Reports
+
+{% include_relative _includes/publications.md kind="reports" %}
+
 ## Publications <span style="font-size: 0.8em;">(Selected, * Equal contribution)</span>
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md kind="papers" %}
 
 ## Internships
 

@@ -26,7 +26,18 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
-.publications { margin-top: 2rem; }
+.publications { margin-top: 0.5rem; }
+
+/* Compact list layout, modeled on gao-hongcheng.github.io */
+.publications ul.pub-list { padding-left: 2em; margin: 0.5em 0 1.5em; }
+
+.publications ul.pub-list li { margin-bottom: 0.5em; line-height: 1.5; }
+
+.publications ul.pub-list li p { margin: 0 0 0.5em; }
+
+.publications ul.pub-list .pub-title { font-weight: 700; }
+
+.publications ul.pub-list .pub-notes { color: #e74d3c; margin-left: 0.25em; }
 
 .pub-row {
   display: flex;
