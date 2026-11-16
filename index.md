@@ -28,10 +28,10 @@ I expect to graduate in Summer 2027 and am currently seeking research or enginee
 
 ## Internships
 
-* <span class="exp-head"><span><strong>Moonshot AI</strong></span><span class="exp-date">2026.02 - 2026.09</span></span>
-* <span class="exp-head"><span><strong>Meituan LongCat</strong></span><span class="exp-date">2025.08 - 2026.02</span></span>
-* <span class="exp-head"><span><strong>Baidu</strong></span><span class="exp-date">2025.05 - 2025.07</span></span>
-* <span class="exp-head"><span><strong>ModelBest</strong></span><span class="exp-date">2024.07 - 2025.05</span></span>
+* <strong>Moonshot AI</strong>, 2026.02 - 2026.09
+* <strong>Meituan LongCat</strong>, 2025.08 - 2026.02
+* <strong>Baidu</strong>, 2025.05 - 2025.07
+* <strong>ModelBest</strong>, 2024.07 - 2025.05
 
 ## Education
 

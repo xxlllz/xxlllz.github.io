@@ -10,7 +10,6 @@ section ul li { margin-bottom: 0.5em; }
 section ul li > p { margin: 0 0 0.5em; }
 section ul li:last-child,
 section ul li:last-child > p:last-child { margin-bottom: 0; }
-section li strong { font-weight: 700; }
 
 header {
   text-align: center !important;
@@ -35,8 +34,3 @@ header {
   padding: 0 !important;
   display: block !important;
 }
-
-/* Internships: organization on the left, dates pushed to the right edge */
-.exp-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0 1em; }
-.exp-date { font-variant-numeric: tabular-nums; white-space: nowrap; }
-@media (max-width: 600px) { .exp-head { flex-direction: column; } }
